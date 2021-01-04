@@ -7,4 +7,7 @@ Also going to be using TypeScript in order to prevent any crossing of variable t
 
 using Postgres for the database
 
-
+# Progress Report Jan/04/2021
+  - set up base express app in TS
+  - set up user model
+  - set up user table for local DB
